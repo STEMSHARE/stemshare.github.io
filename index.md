@@ -7,7 +7,7 @@
     <body>
         <style>
             .scroll-left {
-             height: 50px;	
+             height: 30px;	
              overflow: hidden;
              position: relative;
              background: white;
