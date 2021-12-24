@@ -20,7 +20,7 @@
              display: flex;
              align-content: center;
              justify-content: center;
-             padding: 20px;
+             padding: 50px;
             }
             .scroll-left p {
              position: absolute;
@@ -133,4 +133,35 @@
                 <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/22804843/Aug_25_2021_08_45_35.gif">
         </div>
     </body>
+    <style>
+    h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    font-feature-settings: "kern";
+    padding: 20px;
+    line-height: 10px;
+    text-align: center;
+}
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    font-feature-settings: "kern";
+    padding: 20px;
+    line-height: 15px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
+}
+
+div.GIF {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 20px;
+}
+    </style>
 </html>
