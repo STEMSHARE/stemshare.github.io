@@ -163,23 +163,6 @@ div.GIF {
     justify-content: center;
     padding: 20px;
 }
-        h3 {
-        
-           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
-    font-size: 40px;
-    font-feature-settings: "kern";
-    padding: 20px;
-    line-height: 15px;
-    display: flex;
-    align-content: center;
-    justify-content: center;
-    color: grey;
-    text-decoration: none;
-        }
-        
-        
-            
-        
+   
     </style>
 </html>
