@@ -20,7 +20,7 @@
              display: flex;
              align-content: center;
              justify-content: center;
-             padding: 100px;
+             padding: 50px;
             }
             .scroll-left p {
              position: absolute;
