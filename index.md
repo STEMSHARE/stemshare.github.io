@@ -126,7 +126,7 @@
             <a href="stemshareen.html">ENGLISH</a>
             <a href="STEMSHARE FR.html">FRANÇAIS</a>
             <a href="STEMSHARE NL.html">NEDERLANDS</a>
-            <a href="stemshare CN.html">中文</a>
+            <a href="stemsharecn.html">中文</a>
            
             <div class="GIF">
                 <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/22804843/Aug_25_2021_08_45_35.gif">
