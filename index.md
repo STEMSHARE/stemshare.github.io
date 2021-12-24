@@ -2,7 +2,7 @@
     <head>
         <title>STEMSHARE</title>
         <link href="Stemshare lang select stylesheet.css " rel='stylesheet'>
-        <link rel="shortcut icon" href="/favicon.jpg" type="image/x-icon">
+        <link rel="icon" href="favicon.jpg" type="image/x-icon">
     </head>
     <body>
         <style>
