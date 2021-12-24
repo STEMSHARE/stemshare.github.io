@@ -107,19 +107,19 @@
             content: "WE ARE NOT ASSOCIATED WITH YEEZY IN ANY WAY"
         }
         60% {
-            content: "ਭਾਸ਼ਾ ਚੁਣੋ"
+            content: "*STEMSHARE*"
         }
         70% {
-            content: "اختر اللغة"
+            content: "BY THE COMMUNITY"
         }
         80% {
-            content: "ELIGE LENGUA"
+            content: "FOR THE COMMUNITY"
         }
         90% {
-            content: "ВЫБЕРИТЕ ЯЗЫК"
+            content: "KIES EEN TAAL"
         }
         100% {
-            content: "زبان کا انتخاب کریں۔"
+            content: "CHOISISSEZ LA LANGUE"
         }
     }
 </style>
