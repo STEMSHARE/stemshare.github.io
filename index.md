@@ -131,6 +131,7 @@
             <div class="GIF">
                 <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/22804843/Aug_25_2021_08_45_35.gif">
         </div>
+        <h3>WE ARE NOT ASSOCIATED WITH KANO ELECTRONICS OR YEEZY IN ANY WAY</h3>
     </body>
     <style>
     h1 {
@@ -178,7 +179,7 @@ div.GIF {
         }
         
         
-            <h3>WE ARE NOT ASSOCIATED WITH KANO ELECTRONICS OR YEEZY IN ANY WAY</h3>
+            
         
     </style>
 </html>
