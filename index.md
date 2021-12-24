@@ -162,7 +162,7 @@ div.GIF {
     justify-content: center;
     padding: 20px;
 }
-        footer {
+        h3 {
         
            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
@@ -177,8 +177,8 @@ div.GIF {
     text-decoration: none;
         }
         
-        <footer>
+        
             <h3>WE ARE NOT ASSOCIATED WITH KANO ELECTRONICS OR YEEZY IN ANY WAY</h3>
-        </footer>
+        
     </style>
 </html>
