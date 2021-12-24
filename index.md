@@ -7,7 +7,7 @@
     <body>
         <style>
             .scroll-left {
-             height: 30px;	
+             height: 100px;	
              overflow: hidden;
              position: relative;
              background: white;
@@ -20,7 +20,7 @@
              display: flex;
              align-content: center;
              justify-content: center;
-             padding: 50px;
+             padding: 100px;
             }
             .scroll-left p {
              position: absolute;
