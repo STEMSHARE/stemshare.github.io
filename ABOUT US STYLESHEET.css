@@ -18,24 +18,11 @@ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-align: center;
 font-size: 20px;
 font-weight: bolder;
-line-height: 5px;
-padding: 10px;
+line-height: 10px;
+padding: 20px;
 font-feature-settings: "kern";
 }
 
-a {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
-    font-size: 30px;
-    display: flex;
-    justify-content: center;
-    color: black;
-    text-decoration: none;
-    font-weight: bolder;
-    line-height: 10px;
-    padding: 20px;
-    font-feature-settings: "kern";
-}
 
 div {
     display: flex;
